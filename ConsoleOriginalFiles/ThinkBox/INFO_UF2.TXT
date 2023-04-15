@@ -1,0 +1,3 @@
+UF2 Bootloader v2.8.1 W
+Model: qwertyedu / ThinkBox F4
+Board-ID: STM32F4xx-Arcade-Generic
